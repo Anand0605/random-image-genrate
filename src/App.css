@@ -1,0 +1,42 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: darkcyan;
+}
+.title{
+    text-align: center;
+    padding: 10px;
+}
+.img-search{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    height: 40px;
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    border: 2px solid blue;
+}
+.image-container {
+    margin: 10px;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .image {
+    width: 200px;
+    height: 300px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .zoom .image {
+    transform: scale(1.2);
+  }
+   */
